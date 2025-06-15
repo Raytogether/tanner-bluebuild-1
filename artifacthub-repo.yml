@@ -2,7 +2,7 @@
 # Sign up and add the Repository ID to the right field. Owners fields are optional.
 # Examples: https://artifacthub.io/packages/search?ts_query_web=ublue&sort=relevance&page=1 
 
-repositoryID: 63ff8443-4c52-40fc-93b8-c341e26cf6f0 # Fill in with your own credentials 
+repositoryID: tanner-bluebuild-1  # Fill in with your own credentials 
 owners: # (optional, used to claim repository ownership)
   - name: My Name
     email: my_email@email.com
